@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Halaman Utama -->
+  <url>
+    <loc>https://kalobtand-x-web-studio.vercel.app/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Halaman Layanan -->
+  <url>
+    <loc>https://kalobtand-x-web-studio.vercel.app/layanan</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Halaman Portofolio -->
+  <url>
+    <loc>https://kalobtand-x-web-studio.vercel.app/portofolio</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Halaman Tentang -->
+  <url>
+    <loc>https://kalobtand-x-web-studio.vercel.app/tentang</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Halaman Kontak -->
+  <url>
+    <loc>https://kalobtand-x-web-studio.vercel.app/kontak</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>
